@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "689665281108",
+    "firebase_url": "https://pln-logsheet-data-assistance-default-rtdb.firebaseio.com",
+    "project_id": "pln-logsheet-data-assistance",
+    "storage_bucket": "pln-logsheet-data-assistance.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689665281108:android:c7e173b8eaebc652ba71c1",
+        "android_client_info": {
+          "package_name": "com.tech.redesma.logsheetdataassistancepln"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "689665281108-c565mamkkcur8rbgbknts8akvvtmv0cb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tech.redesma.logsheetdataassistancepln",
+            "certificate_hash": "b2b9bf31136e6868e42fc5863f00651d3c586647"
+          }
+        },
+        {
+          "client_id": "689665281108-h86o6e626votggu5famldt83bg4kdec4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2QCvZDFyhfen_emEtRGWEf0C4q_8TgeI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "689665281108-h86o6e626votggu5famldt83bg4kdec4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
